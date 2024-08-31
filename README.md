@@ -1,4 +1,4 @@
-[![masterHead](https://cdn.vectorstock.com/i/preview-1x/14/95/banner-software-ui-and-development-for-different-vector-37731495.jpg)]
+![masterHead](https://cdn.vectorstock.com/i/preview-1x/14/95/banner-software-ui-and-development-for-different-vector-37731495.jpg)
 <h1 align="center">Hi 👋, I'm Priya Chaudhary</h1>
 <h3 align="center">A passionate frontend developer from Nepal</h3>
 <img align ="right" alt="coding" width= "400" src="https://cdn.dribbble.com/users/4055494/screenshots/15215756/media/d2b66c4ca0192aa26d103448b3d1518b.gif">

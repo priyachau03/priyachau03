@@ -5,9 +5,9 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=priyachau03&label=Profile%20views&color=0e75b6&style=flat" alt="priyachau03" /> </p>
 
 - 🔭 I’m currently working on **somthing new**
-
+- 👩‍💻 **Software Enginner** sharing about my learning
+- 👩‍🎓 studied **Computer Science** from Rk University of Rajkot,Gujrat.
 - 🌱 I’m currently learning **PHP and Laravel**
-
 - 💬 Ask me about **HTML, CSS, PHP, Laravel**
 - 📫 How to reach me **pchaudhary2307@gmail.com**
 
